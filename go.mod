@@ -3,7 +3,7 @@ module github.com/Shopify/toxiproxy/v2
 go 1.17
 
 require (
-	github.com/gorilla/mux v1.8.0
+	github.com/gorilla/mux v1.8.1
 	github.com/prometheus/client_golang v1.14.0
 	github.com/rs/zerolog v1.29.0
 	github.com/urfave/cli/v2 v2.23.0
